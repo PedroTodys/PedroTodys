@@ -11,5 +11,5 @@
 
 ***Redes Sociais:***
 <div>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img align="center" alt="in" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-todys-45875016a" target="_blank"><img align="center" alt="in" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
