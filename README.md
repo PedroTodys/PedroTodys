@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/pedro-todys-5012361b5" target="_blank"><img align="center" alt="in" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
 
+<br>
+<br>
+
 <div text-aling: center;>
   
 <img 
