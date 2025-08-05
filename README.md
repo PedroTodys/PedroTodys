@@ -5,7 +5,7 @@
    <img align="center" alt="Pedro-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="Pedro-css" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
    <img align="center" alt="Pedro-mariadb" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-   <img align="center" alt="Pedro-mariadb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+   <img align="center" alt="Pedro-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
 </br>
 
